@@ -11,6 +11,11 @@ It allows users to ask natural language questions about complex PDF documents co
 - Uses an **LLM-powered query expansion module** to improve answer accuracy.
 - Interactive **Gradio interface** for PDF upload and question answering.
 
+
+##Workflow
+<img width="1027" height="1161" alt="image" src="https://github.com/user-attachments/assets/8ef95a00-3d5f-4f57-a6b0-bdcc35f909e5" />
+
+
 ## Tech Stack
 - Python  
 - PyMuPDF  
